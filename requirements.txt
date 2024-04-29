@@ -1,0 +1,4 @@
+elasticsearch==8.13.0
+python-dotenv
+loguru==0.7.2
+ipsum
